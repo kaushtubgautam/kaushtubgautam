@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kaushtubgautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kaushtubgautam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaushtub gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushtub gautam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaushtub-gautam-667ab61b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushtub gautam" height="30" width="40" /></a>
 <a href="https://instagram.com/aqua_kg_1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aqua_kg_1102" height="30" width="40" /></a>
-<a href="https://discord.gg/https://dsc.gg/multy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/multy" height="30" width="40" /></a>
+<a href="https://dsc.gg/multy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dsc.gg/multy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
