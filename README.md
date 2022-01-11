@@ -15,6 +15,12 @@
 
 - 📫 How to reach me **kaushtubkg@gmail.com**
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31zbzlualz4gpxod7apvdbt4ffk4)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kaushtubgautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kaushtubgautam" height="30" width="40" /></a>
