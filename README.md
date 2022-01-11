@@ -15,9 +15,6 @@
 
 - 📫 How to reach me **kaushtubkg@gmail.com**
 
-### Spotify Playing 🎧
-
-[![Spotify](https://open.spotify.com/user/4w6grq7cywqq2e0rjlh803cxd)
 
 ---
 
