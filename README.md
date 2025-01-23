@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushtub Gautam</h1>
-<h3 align="center">Rookie Programmer/Coder from India.</h3>
+<h3 align="center">Indian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushtubgautam&label=Profile%20views&color=0e75b6&style=flat" alt="kaushtubgautam" /> </p>
 
